@@ -1,2 +1,2 @@
 # conflicts
-test
+test2
