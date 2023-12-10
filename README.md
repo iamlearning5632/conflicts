@@ -1,6 +1,6 @@
 # conflicts
-test_main_branch
+test_main_branch_updated
 
 test_main_branch
 
-test_main_branch
+test_main_branch_updated
