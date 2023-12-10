@@ -1,7 +1,6 @@
 # conflicts
-<<<<<<< HEAD
-test2
-=======
-test1
-test1
->>>>>>> main
+test_main_branch
+
+test_main_branch
+
+test_main_branch
